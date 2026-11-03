@@ -1,0 +1,26 @@
+mensaje,categoria
+"Hola, buenos días.",saludo_conversacion
+"Buenas tardes, quisiera platicar contigo.",saludo_conversacion
+"Hola, ¿cómo estás hoy?",saludo_conversacion
+"Tengo ganas de conversar un rato.",saludo_conversacion
+"¿Podemos hablar un momento?",saludo_conversacion
+"Hoy me siento muy feliz.",alegria_bienestar
+"Estoy contento porque vino mi familia.",alegria_bienestar
+"Me siento tranquilo esta mañana.",alegria_bienestar
+"Hoy tuve un día maravilloso.",alegria_bienestar
+"Estoy emocionado porque mañana veré a mis nietos.",alegria_bienestar
+"Me siento triste porque mis hijos no me visitan.",tristeza_soledad
+"Últimamente me siento muy solo.",tristeza_soledad
+"Extraño mucho a mi familia.",tristeza_soledad
+"A veces siento que nadie tiene tiempo para mí.",tristeza_soledad
+"Me gustaría tener más compañía durante el día.",tristeza_soledad
+"¿Qué puedo hacer para sentirme acompañado?",solicitud_orientacion
+"¿Me recomiendas alguna actividad para entretenerme?",solicitud_orientacion
+"¿Cómo puedo comunicarme más seguido con mi familia?",solicitud_orientacion
+"¿Qué actividades puedo hacer en casa?",solicitud_orientacion
+"¿Qué me aconsejas para mantenerme ocupado?",solicitud_orientacion
+"Muchas gracias, hasta mañana.",despedida
+"Adiós, hablamos después.",despedida
+"Me voy a descansar, hasta luego.",despedida
+"Gracias por escucharme, nos vemos pronto.",despedida
+"Por ahora es todo, que tengas buena noche.",despedida
